@@ -1,3 +1,7 @@
+# POTTY BOMBER
+
+go fork your source
+
 # typescript + golang stuff
 
 - building the short stack over [this way](https://github.com/mpottebaum/uni-short-stacks)
