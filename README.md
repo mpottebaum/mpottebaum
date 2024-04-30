@@ -1,6 +1,6 @@
 # POTTY BOMBER
 
-go fork your source
+wut da func bro go fork ur source
 
 # typescript + golang stuff
 
